@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Canta-Dark
 Comment=Fresh and simple personality icon theme
-Inherits=Tela-circle-dark,Tela-dark,breeze,Adwaita,gnome,hicolor
+Inherits=Tela-circle-dark,Tela-dark,breeze-dark,Adwaita,gnome,hicolor
 
 Example=folder
 
