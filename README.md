@@ -12,13 +12,13 @@
 
 ## Remix
 
-| Theme |
-| --- |
-| [Canta-Light](https://github.com/samwhelp/canta-icon-theme-remix/tree/main/themes/Canta-Light) |
-| [Canta-Dark](https://github.com/samwhelp/canta-icon-theme-remix/tree/main/themes/Canta-Dark) |
-| [Canta-Papirus-Light](https://github.com/samwhelp/canta-icon-theme-remix/tree/main/themes/Canta-Papirus-Light) |
-| [Canta-Papirus-Dark](https://github.com/samwhelp/canta-icon-theme-remix/tree/main/themes/Canta-Papirus-Dark) |
-| [Canta-Breeze-Light](https://github.com/samwhelp/canta-icon-theme-remix/tree/main/themes/Canta-Light) |
-| [Canta-Breeze-Dark](https://github.com/samwhelp/canta-icon-theme-remix/tree/main/themes/Canta-Breeze-Dark) |
-| [Canta-Numix-Light](https://github.com/samwhelp/canta-icon-theme-remix/tree/main/themes/Canta-Numix-Light) |
-| [Canta-Numix-Dark](https://github.com/samwhelp/canta-icon-theme-remix/tree/main/themes/Canta-Numix-Dark) |
+| Theme | Inherits |
+| --- | --- |
+| [Canta-Light](https://github.com/samwhelp/canta-icon-theme-remix/tree/main/themes/Canta-Light) | [Inherits](https://github.com/samwhelp/canta-icon-theme-remix/blob/main/themes/Canta-Light/index.theme#L4) |
+| [Canta-Dark](https://github.com/samwhelp/canta-icon-theme-remix/tree/main/themes/Canta-Dark) | [Inherits](https://github.com/samwhelp/canta-icon-theme-remix/blob/main/themes/Canta-Dark/index.theme#L4) |
+| [Canta-Papirus-Light](https://github.com/samwhelp/canta-icon-theme-remix/tree/main/themes/Canta-Papirus-Light) | [Inherits](https://github.com/samwhelp/canta-icon-theme-remix/blob/main/themes/Canta-Papirus-Light/index.theme#L4) |
+| [Canta-Papirus-Dark](https://github.com/samwhelp/canta-icon-theme-remix/tree/main/themes/Canta-Papirus-Dark) | [Inherits](https://github.com/samwhelp/canta-icon-theme-remix/blob/main/themes/Canta-Papirus-Dark/index.theme#L4) |
+| [Canta-Breeze-Light](https://github.com/samwhelp/canta-icon-theme-remix/tree/main/themes/Canta-Breeze-Light) | [Inherits](https://github.com/samwhelp/canta-icon-theme-remix/blob/main/themes/Canta-Breeze-Light/index.theme#L4) |
+| [Canta-Breeze-Dark](https://github.com/samwhelp/canta-icon-theme-remix/tree/main/themes/Canta-Breeze-Dark) | [Inherits](https://github.com/samwhelp/canta-icon-theme-remix/blob/main/themes/Canta-Breeze-Dark/index.theme#L4) |
+| [Canta-Numix-Light](https://github.com/samwhelp/canta-icon-theme-remix/tree/main/themes/Canta-Numix-Light) | [Inherits](https://github.com/samwhelp/canta-icon-theme-remix/blob/main/themes/Canta-Numix-Light/index.theme#L4) |
+| [Canta-Numix-Dark](https://github.com/samwhelp/canta-icon-theme-remix/tree/main/themes/Canta-Numix-Dark) | [Inherits](https://github.com/samwhelp/canta-icon-theme-remix/blob/main/themes/Canta-Numix-Dark/index.theme#L4) |
