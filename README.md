@@ -25,3 +25,36 @@
 | [Canta-Breeze-Dark](https://github.com/samwhelp/canta-icon-theme-remix/tree/main/themes/Canta-Breeze-Dark) | [breeze-dark,Papirus-Dark,Numix,Adwaita,gnome,hicolor](https://github.com/samwhelp/canta-icon-theme-remix/blob/main/themes/Canta-Breeze-Dark/index.theme#L4) |
 | [Canta-Numix-Light](https://github.com/samwhelp/canta-icon-theme-remix/tree/main/themes/Canta-Numix-Light) | [Numix-Light,Papirus-Light,breeze,Adwaita,gnome,hicolor](https://github.com/samwhelp/canta-icon-theme-remix/blob/main/themes/Canta-Numix-Light/index.theme#L4) |
 | [Canta-Numix-Dark](https://github.com/samwhelp/canta-icon-theme-remix/tree/main/themes/Canta-Numix-Dark) | [Numix,Papirus-Dark,breeze-dark,Adwaita,gnome,hicolor](https://github.com/samwhelp/canta-icon-theme-remix/blob/main/themes/Canta-Numix-Dark/index.theme#L4) |
+
+
+
+
+## Depends
+
+
+### Debian Package
+
+| Debian Package |
+| --- |
+| [papirus-icon-theme](https://packages.debian.org/stable/papirus-icon-theme) |
+| [breeze-icon-theme](https://packages.debian.org/stable/breeze-icon-theme) |
+| [numix-icon-theme](https://packages.debian.org/stable/numix-icon-theme) |
+
+run to install
+
+``` sh
+sudo apt-get install papirus-icon-theme breeze-icon-theme numix-icon-theme
+```
+
+
+| Debian Package |
+| --- |
+| [adwaita-icon-theme](https://packages.debian.org/stable/adwaita-icon-theme) |
+| [gnome-icon-theme](https://packages.debian.org/stable/gnome-icon-theme) |
+| [hicolor-icon-theme](https://packages.debian.org/stable/hicolor-icon-theme) |
+
+run to install
+
+``` sh
+sudo apt-get install adwaita-icon-theme gnome-icon-theme hicolor-icon-theme
+```
