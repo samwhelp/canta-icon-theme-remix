@@ -25,6 +25,7 @@
 
 
 
+
 ## Depends
 
 
@@ -54,3 +55,14 @@ run to install
 ``` sh
 sudo apt-get install adwaita-icon-theme gnome-icon-theme hicolor-icon-theme
 ```
+
+
+
+
+## Link
+
+| Link |
+| --- |
+| Papirus Development Team / [papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) |
+| Numix Project / [numix-icon-theme](https://github.com/numixproject/numix-icon-theme) |
+| KDE Invent / [breeze-icon-theme](https://invent.kde.org/frameworks/breeze-icons) |
